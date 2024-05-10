@@ -10,5 +10,5 @@ I used towns total sales to find the towns with the most amount of sales, as I w
 
 #### How to run worksheet
 
-Must have a Tableau public account or an active key for Tableau use. Open workbook (.twb) using Tableau application. 
+Must have a Tableau public account or an active key for Tableau use. Download raw file (should save as .twb) Open workbook using Tableau application.  
 
